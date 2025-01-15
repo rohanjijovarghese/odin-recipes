@@ -1,0 +1,8 @@
+* {
+    background-color: black;
+    color: white; /* Use 'color' instead of 'text-color' */
+}
+
+h1 {
+    background-color: black;
+}
